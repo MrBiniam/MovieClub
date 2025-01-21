@@ -1,5 +1,5 @@
-# Movie-Rental-.NET-MVC
-The "Rental Store" project is a web application developed using ASP.NET Core, enabling users to browse, rent, and manage movies.
+# Movie Club
+The "Movie Rental" project is a web application developed using ASP.NET Core, enabling users to browse, rent, and manage movies.
 
 ### Admin View:
 <p align="center">
