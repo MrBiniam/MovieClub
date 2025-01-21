@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Welcome to Movie Club";
+}
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-12 text-center">
+                <h1 class="m-0" style="font-family: 'Georgia', serif; font-size: 48px; font-weight: bold; color: #FF6347; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">
+                    @ViewData["Title"]
+                </h1>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+<!-- Main content -->
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 text-center">
+                <div class="my-custom-image">
+                    <img src="~/images/MoviessssClub.jpg" alt="Movie Club" class="img-fluid">
+                </div>
+            </div>
+        </div>
+        <!-- /.row (main row) -->
+    </div>
+</section>
+<!-- /.content -->
+<!-- Additional CSS -->
+<style>
+    .my-custom-image img {
+        max-width: 100%;
+        height: auto;
+        border: 2px solid #ddd; /* Optional: border around the image */
+        border-radius: 8px; /* Optional: rounded corners */
+        padding: 10px; /* Optional: padding around the image */
+        background-color: #f9f9f9; /* Optional: background color */
+    }
+</style>

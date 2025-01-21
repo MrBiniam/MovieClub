@@ -1,0 +1,644 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\data\\mvctextcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\data\\mvctextcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\views\\order\\finalize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\views\\order\\finalize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\views\\order\\confirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\views\\order\\confirmed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MovieTestDb/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\migrations\\20240830121509_aftercustomermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\migrations\\20240830121509_aftercustomermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\migrations\\20240829072541_adddescriptiontomovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\migrations\\20240829072541_adddescriptiontomovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\migrations\\20240130160830_image.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\migrations\\20240130160830_image.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\migrations\\20240821123819_newmovietest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\migrations\\20240821123819_newmovietest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\migrations\\20240130163008_imagepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\migrations\\20240130163008_imagepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\migrations\\20231119120202_rating.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\migrations\\20231119120202_rating.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\migrations\\20231114133322_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\migrations\\20231114133322_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\migrations\\mvctextcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\migrations\\mvctextcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\migrations\\20240130144718_initialidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\migrations\\20240130144718_initialidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|c:\\biniam\\everything about tomorrow\\computer touch\\internship\\c#\\projects\\movieclub\\movieclub\\movieclub.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A4E9CB55-A296-43BA-9CF8-07711244BD14}|MovieClub\\MovieClub.csproj|solutionrelative:movieclub\\movieclub.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MovieClub\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:57:36.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieClub\\appsettings.json",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\appsettings.json",
+              "RelativeToolTip": "MovieClub\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T08:24:26.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MovieClub\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MovieClub\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T06:32:35.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieClub\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAwwNoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:11:14.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieClub\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "MovieClub\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAqwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T20:29:25.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Program.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Program.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Program.cs",
+              "RelativeToolTip": "MovieClub\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:00:26.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "MovieClub\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T08:21:39.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MovieClub\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:00:47.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Models\\SeedData.cs",
+              "RelativeToolTip": "MovieClub\\Models\\SeedData.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAGUAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T09:00:44.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MvcTextContext.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Data\\MvcTextContext.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Data\\MvcTextContext.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Data\\MvcTextContext.cs",
+              "RelativeToolTip": "MovieClub\\Data\\MvcTextContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:48:19.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "MovieClub\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:05:14.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovieGenreViewModel.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Models\\MovieGenreViewModel.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Models\\MovieGenreViewModel.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Models\\MovieGenreViewModel.cs",
+              "RelativeToolTip": "MovieClub\\Models\\MovieGenreViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:04:59.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MovieClub\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:05:12.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Models\\Movie.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieClub\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:04:51.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Finalize.cshtml",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Order\\Finalize.cshtml",
+              "RelativeDocumentMoniker": "MovieClub\\Views\\Order\\Finalize.cshtml",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Order\\Finalize.cshtml",
+              "RelativeToolTip": "MovieClub\\Views\\Order\\Finalize.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T09:03:45.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Confirmed.cshtml",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Order\\Confirmed.cshtml",
+              "RelativeDocumentMoniker": "MovieClub\\Views\\Order\\Confirmed.cshtml",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Order\\Confirmed.cshtml",
+              "RelativeToolTip": "MovieClub\\Views\\Order\\Confirmed.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T09:03:30.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "MovieClub\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:23:32.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieClub\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MovieClub\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T08:23:37.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Models\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Models\\OrderViewModel.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Models\\OrderViewModel.cs",
+              "RelativeToolTip": "MovieClub\\Models\\OrderViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:23:34.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MovieClub\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:58:57.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MovieClub\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "MovieClub\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T06:53:54.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "MovieClub\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "MovieClub\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAC8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T06:41:02.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MovieTestDb/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MovieTestDb/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-30T13:09:13.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240830121509_AfterCustomerManagement.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\20240830121509_AfterCustomerManagement.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Migrations\\20240830121509_AfterCustomerManagement.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\20240830121509_AfterCustomerManagement.cs",
+              "RelativeToolTip": "MovieClub\\Migrations\\20240830121509_AfterCustomerManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T12:15:09.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "MovieClub\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "MovieClub\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T08:48:22.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MovieClub\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MovieClub\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T08:48:16.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Register\\Register.cshtml",
+              "RelativeDocumentMoniker": "MovieClub\\Views\\Register\\Register.cshtml",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Register\\Register.cshtml",
+              "RelativeToolTip": "MovieClub\\Views\\Register\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T08:18:58.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MovieClub\\Views\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "MovieClub\\Views\\Movies\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T06:47:18.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "MovieClub\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "MovieClub\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T06:41:01.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240829072541_AddDescriptionToMovie.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\20240829072541_AddDescriptionToMovie.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Migrations\\20240829072541_AddDescriptionToMovie.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\20240829072541_AddDescriptionToMovie.cs",
+              "RelativeToolTip": "MovieClub\\Migrations\\20240829072541_AddDescriptionToMovie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:25:42.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240130160830_Image.Designer.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\20240130160830_Image.Designer.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Migrations\\20240130160830_Image.Designer.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\20240130160830_Image.Designer.cs",
+              "RelativeToolTip": "MovieClub\\Migrations\\20240130160830_Image.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:59:30.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240130163008_ImagePath.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\20240130163008_ImagePath.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Migrations\\20240130163008_ImagePath.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\20240130163008_ImagePath.cs",
+              "RelativeToolTip": "MovieClub\\Migrations\\20240130163008_ImagePath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:24:11.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240821123819_NewMovieTest.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\20240821123819_NewMovieTest.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Migrations\\20240821123819_NewMovieTest.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\20240821123819_NewMovieTest.cs",
+              "RelativeToolTip": "MovieClub\\Migrations\\20240821123819_NewMovieTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:24:12.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20231119120202_Rating.Designer.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\20231119120202_Rating.Designer.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Migrations\\20231119120202_Rating.Designer.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\20231119120202_Rating.Designer.cs",
+              "RelativeToolTip": "MovieClub\\Migrations\\20231119120202_Rating.Designer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAhwAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:57:57.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20231114133322_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\20231114133322_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Migrations\\20231114133322_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\20231114133322_InitialCreate.Designer.cs",
+              "RelativeToolTip": "MovieClub\\Migrations\\20231114133322_InitialCreate.Designer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAhwA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:57:43.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MvcTextContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\MvcTextContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Migrations\\MvcTextContextModelSnapshot.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\MvcTextContextModelSnapshot.cs",
+              "RelativeToolTip": "MovieClub\\Migrations\\MvcTextContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:24:15.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240130144718_InitialIdentity.cs",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\20240130144718_InitialIdentity.cs",
+              "RelativeDocumentMoniker": "MovieClub\\Migrations\\20240130144718_InitialIdentity.cs",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Migrations\\20240130144718_InitialIdentity.cs",
+              "RelativeToolTip": "MovieClub\\Migrations\\20240130144718_InitialIdentity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:24:01.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MovieClub\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MovieClub\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T08:02:08.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MovieClub",
+              "DocumentMoniker": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\MovieClub.csproj",
+              "RelativeDocumentMoniker": "MovieClub\\MovieClub.csproj",
+              "ToolTip": "C:\\Biniam\\everything about tomorrow\\computer touch\\Internship\\C#\\Projects\\MovieClub\\MovieClub\\MovieClub.csproj",
+              "RelativeToolTip": "MovieClub\\MovieClub.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T08:01:23.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
